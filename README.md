@@ -17,4 +17,4 @@ Entrenamiento del "Cerebro": Enseñar al modelo a reconocer el Bosón de Higgs.
 
 Examen Final: Evaluar qué tan precisa es nuestra IA ante datos que nunca ha visto.
 
-Nota del Autor: Este taller fue diseñado por el PhD Alan Ignacio Hernández Juárez para demostrar cómo el código puede ayudarnos a entender los secretos más profundos del universo.
+Nota del Autor: Este taller fue diseñado por el PhD Sebastián Felipe Mantilla Serrano para demostrar cómo el código puede ayudarnos a entender los secretos más profundos del universo.
